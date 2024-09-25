@@ -6,4 +6,4 @@
 - git add
 - git commit
 
-master branch
+master developer2 branch
